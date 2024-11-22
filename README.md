@@ -1,3 +1,4 @@
+
 # Cyberland Labs Script (`cyberland.sh`)  
 
 ## Descripción del Proyecto  
@@ -90,11 +91,30 @@
 
 ## Colaboradores
 
-| ![Adrián Gisbert](https://cyberlandsec.com/wp-content/uploads/2024/11/adrian_gisbert-5.jpg) | ![Wuilmer Bolívar](https://cyberlandsec.com/wp-content/uploads/2024/11/wuil-4.jpg) | ![Santiago Guevara](https://cyberlandsec.com/wp-content/uploads/2024/11/santi-12.jpg) |
-|:--:|:--:|:--:|
-| **Adrián Gisbert**  | **Wuilmer Bolívar**  | **Santiago Guevara** |
-| CEO de CyberLand Labs | Desarrollador Principal | Creador Principal de Máquinas |
-| [LinkedIn](https://www.linkedin.com/in/sr-gisbert/) | [Web](https://4k4m1m3.com) / [LinkedIn](https://www.linkedin.com/in/4k4m1m3/) | [LinkedIn](https://www.linkedin.com/in/santiagoguevara-/) |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cyberlandsec.com/wp-content/uploads/2024/11/adrian_gisbert-5.jpg" alt="Adrián Gisbert" width="100" style="border-radius: 50%;">
+        <h4>Adrián Gisbert</h4>
+        <p>CEO de CyberLand Labs</p>
+        <a href="https://www.linkedin.com/in/sr-gisbert/">LinkedIn</a>
+      </td>
+      <td align="center">
+        <img src="https://cyberlandsec.com/wp-content/uploads/2024/11/wuil-4.jpg" alt="Wuilmer Bolívar" width="100" style="border-radius: 50%;">
+        <h4>Wuilmer Bolívar</h4>
+        <p>Desarrollador Principal</p>
+        <a href="https://4k4m1m3.com">Web</a> / <a href="https://www.linkedin.com/in/4k4m1m3/">LinkedIn</a>
+      </td>
+      <td align="center">
+        <img src="https://cyberlandsec.com/wp-content/uploads/2024/11/santi-13.jpg" alt="Santiago Guevara" width="100" style="border-radius: 50%;">
+        <h4>Santiago Guevara</h4>
+        <p>Creador Principal de Máquinas</p>
+        <a href="https://www.linkedin.com/in/santiagoguevara-/">LinkedIn</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas colaborar:
