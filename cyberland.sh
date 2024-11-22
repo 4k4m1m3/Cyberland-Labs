@@ -403,10 +403,19 @@ RUN apt-get update && \
 USER cyberland
 WORKDIR /home/cyberland
 
-EXPOSE $puertos
+# Exponer los puertos individualmente
+EOF
+
+IFS=',' read -ra PUERTOS_ARRAY <<< "$puertos"
+for puerto in "${PUERTOS_ARRAY[@]}"; do
+    echo "EXPOSE $puerto" >> Dockerfile
+done
+
+cat <<EOF >> Dockerfile
 
 CMD ["bash"]
 EOF
+
     echo "Construyendo la imagen Docker..."
     docker build -t "$nombre_maquina" .
     if [ $? -ne 0 ]; then
